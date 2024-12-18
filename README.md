@@ -1,6 +1,6 @@
 ## Hi there 👋
 ### Welcome to my profile
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Technicll)
 <!--
 **Technicll/Technicll** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
