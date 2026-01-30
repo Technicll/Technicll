@@ -1,5 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello%2C+my+name+is+Luc!;Hola%2C+soy+Luc!;Bonjour%2C+je+m'appelle+Luc!;Hallo%2C+ich+hei%C3%9Fe+Luc!;Ciao%2C+mi+chiamo+Luc!;Olá%2C+me+chamo+Luc!;こんにちは%2C+ルックです!;안녕하세요%2C+저는+Luc입니다!;Привет%2C+меня+зовут+Luc!;你好%2C+我是Luc!)](https://git.io/typing-svg)
-<br>I am a Computer Science student at the University of Texas at Dallas (UTD).<br>I'm currently working on a personal website where I aim to showcase my UI/UX skills.<br>I enjoy collaborating with people and thriving in the continuous process of learning.<br>Additionally, I like to spend time on niche projects that interest me.<br><br>
+<br>I am a Computer Science student at the University of Texas at Dallas (UTD).<br>I'm currently interested in cybersecurity, machine learning, and computer hardware.<br>I enjoy collaborating with people and thriving in the continuous process of learning.<br>Additionally, I like to spend time on niche projects that interest me.<br><br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luc-laporte/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:luclaporte2@gmail.com) 
