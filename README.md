@@ -1,7 +1,7 @@
 # Hi, I'm Luc 👋
 I'm a Computer Science student at the University of Texas at Dallas.
 I'm interested in cybersecurity, full-stack development, DevOps, and computer hardware.
-I enjoy collaborating with others, learning continuously, and building niche projects that challenge me.
+I enjoy collaborating with others, learning continuously, and being of service to my neighbor.
 ## 🔭 What I'm working on
 - Strengthening my skills in cybersecurity and infrastructure
 - Building full-stack projects with practical use cases
