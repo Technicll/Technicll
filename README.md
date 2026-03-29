@@ -25,10 +25,12 @@ I enjoy collaborating with others, learning continuously, and building niche pro
 
 ### Tools / Cloud
 ![Git](https://skillicons.dev/icons?i=git)
-![Docker](https://skillicons.dev/icons?i=docker)
-![Terraform](https://skillicons.dev/icons?i=terraform)
-![AWS](https://skillicons.dev/icons?i=aws)
-![GCP](https://skillicons.dev/icons?i=gcp)
+
+## 🔭 Currently learning
+- ![Terraform](https://skillicons.dev/icons?i=terraform) for infrastructure automation
+- ![AWS](https://skillicons.dev/icons?i=aws) for cloud deployment & services  
+- ![Docker](https://skillicons.dev/icons?i=docker) for containerization & deployments
+- ![GCP](https://skillicons.dev/icons?i=gcp) for cloud services & hosting
 
 ## 📫 Connect with me
 [LinkedIn](https://www.linkedin.com/in/luc-laporte/) • [Email](mailto:luclaporte2@gmail.com)
