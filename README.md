@@ -8,7 +8,7 @@
 ![C](https://skillicons.dev/icons?i=c)
 ![C++](https://skillicons.dev/icons?i=cpp)
 ![JavaScript](https://skillicons.dev/icons?i=javascript)
-![Racket](https://skillicons.dev/icons?i=racket)
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/racket/racket-original.svg" width="48"/>
 ![Java](https://skillicons.dev/icons?i=java)
 ![HTML](https://skillicons.dev/icons?i=html)
 ![Lua](https://skillicons.dev/icons?i=lua)
