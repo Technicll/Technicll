@@ -30,8 +30,5 @@ I enjoy collaborating with others, learning continuously, and building niche pro
 ![AWS](https://skillicons.dev/icons?i=aws)
 ![GCP](https://skillicons.dev/icons?i=gcp)
 
-## 🛡️ Cybersecurity
-![Kali Linux](https://skillicons.dev/icons?i=linux)
-
 ## 📫 Connect with me
 [LinkedIn](https://www.linkedin.com/in/luc-laporte/) • [Email](mailto:luclaporte2@gmail.com)
