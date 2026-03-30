@@ -19,7 +19,7 @@ I enjoy collaborating with others, learning continuously, and being of service t
 ![Docker](https://skillicons.dev/icons?i=docker) **Containerization & deployments**  
 ![GCP](https://skillicons.dev/icons?i=gcp) **Cloud AI & hosting**  
 ![Node.js](https://skillicons.dev/icons?i=nodejs) **JavaScript**  
-![Express.js](https://skillicons.dev/icons?i=express) **JavaScript framework**
+![Express.js](https://skillicons.dev/icons?i=express) **JavaScript framework**  
 ![Azure](https://skillicons.dev/icons?i=azure) **Cloud integration & databases**
 ## 📫 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luc-laporte/)
