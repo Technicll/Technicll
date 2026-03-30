@@ -13,15 +13,13 @@ I enjoy collaborating with others, learning continuously, and being of service t
 ![HTML](https://skillicons.dev/icons?i=html) ![React](https://skillicons.dev/icons?i=react)
 ### Tools / Cloud
 ![Git](https://skillicons.dev/icons?i=git) ![Linux](https://skillicons.dev/icons?i=linux)
-## 🔭 Currently learning
+## 🧠 Currently Learning
 ![Terraform](https://skillicons.dev/icons?i=terraform) **Infrastructure automation**  
 ![AWS](https://skillicons.dev/icons?i=aws) **Cloud deployment & services**  
 ![Docker](https://skillicons.dev/icons?i=docker) **Containerization & deployments**  
-![GCP](https://skillicons.dev/icons?i=gcp) **Cloud services & hosting**
-
-![Node.js](https://skillicons.dev/icons?i=nodejs) **Javascript**
-
-![Express.js](https://skillicons.dev/icons?i=expressjs) **Javascript Framework**
+![GCP](https://skillicons.dev/icons?i=gcp) **Cloud services & hosting**  
+![Node.js](https://skillicons.dev/icons?i=nodejs) **JavaScript**  
+![Express.js](https://skillicons.dev/icons?i=express) **JavaScript framework**
 ## 📫 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luc-laporte/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luclaporte2@gmail.com)
