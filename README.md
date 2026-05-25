@@ -14,7 +14,7 @@ I enjoy collaborating with others, learning continuously, and being of service t
 ### Tools / Cloud
 ![Git](https://skillicons.dev/icons?i=git) ![Linux](https://skillicons.dev/icons?i=linux)
 ## 🧠 Currently Learning
-![Terraform](https://skillicons.dev/icons?i=terraform) **Infrastructure automation**  
+![Tailscale](https://img.shields.io/badge/Tailscale-A262FF?style=for-the-badge&logo=tailscale&logoColor=white)
 ![AWS](https://skillicons.dev/icons?i=aws) **Cloud deployment & services**  
 ![Docker](https://skillicons.dev/icons?i=docker) **Containerization & deployments**  
 ![GCP](https://skillicons.dev/icons?i=gcp) **Cloud AI & hosting**  
