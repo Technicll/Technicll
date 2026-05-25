@@ -12,8 +12,7 @@ I enjoy collaborating with others, learning continuously, and being of service t
 ### Web / Frameworks
 ![HTML](https://skillicons.dev/icons?i=html) ![React](https://skillicons.dev/icons?i=react)
 ### Tools / Cloud
-<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,linux" valign="middle" /></a><a href="https://tailscale.com"><img src="https://img.shields.io/badge/-%23A262FF?style=just-the-logo&logo=tailscale&logoColor=white&color=1A1A1A" height="50" width="50" valign="middle" style="border-radius: 10px; background-color: #1a1a1a; padding: 10px; box-sizing: border-box;" /></a>
-
+<a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,linux" valign="middle" height="50" /></a><a href="https://tailscale.com"><img src="https://raw.githubusercontent.com/marwinburesch/marwinburesch/main/assets/tailscale.svg" valign="middle" height="50" width="50" /></a>
 ## 🧠 Currently Learning
 ![AWS](https://skillicons.dev/icons?i=aws) **Cloud deployment & services**  
 ![Docker](https://skillicons.dev/icons?i=docker) **Containerization & deployments**  
