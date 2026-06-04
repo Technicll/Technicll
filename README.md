@@ -8,7 +8,7 @@ I enjoy collaborating with others, learning continuously, and being of service t
 - Exploring cloud, automation, and hardware-related projects
 ## 💻 Tech Stack
 ### Languages
-![C](https://skillicons.dev/icons?i=c) ![C++](https://skillicons.dev/icons?i=cpp) ![JavaScript](https://skillicons.dev/icons?i=javascript) ![TypeScript](https://skillicons.dev/icons?i=ts) ![Python](https://skillicons.dev/icons?i=python)
+![C++](https://skillicons.dev/icons?i=cpp) ![JavaScript](https://skillicons.dev/icons?i=javascript) ![TypeScript](https://skillicons.dev/icons?i=ts) ![Python](https://skillicons.dev/icons?i=python)
 ### Web / Frameworks
 ![HTML](https://skillicons.dev/icons?i=html) ![React](https://skillicons.dev/icons?i=react)
 ### Tools / Cloud
