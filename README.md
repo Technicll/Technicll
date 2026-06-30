@@ -8,14 +8,14 @@ I enjoy collaborating with others, learning continuously, and being of service t
 - Exploring cloud, automation, and hardware-related projects
 ## 💻 Tech Stack
 ### Languages
-![C++](https://skillicons.dev/icons?i=cpp) ![JavaScript](https://skillicons.dev/icons?i=javascript) ![TypeScript](https://skillicons.dev/icons?i=ts) ![Python](https://skillicons.dev/icons?i=python)
+![C++](https://skillicons.dev/icons?i=cpp) ![JavaScript](https://skillicons.dev/icons?i=javascript) ! ![Python](https://skillicons.dev/icons?i=python)
 ### Web / Frameworks
 ![HTML](https://skillicons.dev/icons?i=html) ![React](https://skillicons.dev/icons?i=react)
 ### Tools / Cloud
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,linux" valign="middle" /></a><span style="margin-left: 12px; display: inline-block; vertical-align: middle;"><a href="https://tailscale.com"><img src="https://img.shields.io/badge/-%23A262FF?style=just-the-logo&logo=tailscale&logoColor=white&color=1A1A1A" height="50" width="50" style="border-radius: 10px; background-color: #1a1a1a; padding: 10px; box-sizing: border-box;" /></a></span>
 ## 🧠 Currently Learning
 ![C#](https://skillicons.dev/icons?i=cs) **Enterprise and development** 
-
+![TypeScript](https://skillicons.dev/icons?i=ts) **Static Typing and web infrastructure**
 ![AWS](https://skillicons.dev/icons?i=aws) **Cloud deployment & services**  
 ![Docker](https://skillicons.dev/icons?i=docker) **Containerization & deployments**  
 ![GCP](https://skillicons.dev/icons?i=gcp) **Cloud AI & hosting**  
