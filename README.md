@@ -18,7 +18,6 @@ I enjoy collaborating with others, learning continuously, and being of service t
 ![AWS](https://skillicons.dev/icons?i=aws) **Cloud deployment & services**  
 ![Docker](https://skillicons.dev/icons?i=docker) **Containerization & deployments**  
 ![GCP](https://skillicons.dev/icons?i=gcp) **Cloud AI & hosting**  
-![Node.js](https://skillicons.dev/icons?i=nodejs) **JavaScript**  
 ![Express.js](https://skillicons.dev/icons?i=express) **JavaScript framework**  
 ![Azure](https://skillicons.dev/icons?i=azure) **Cloud integration & databases**
 ## 📫 Connect with me
