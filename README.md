@@ -16,7 +16,7 @@ I enjoy collaborating with others, learning continuously, and being of service t
 ## 🧠 Currently Learning
 ![C#](https://skillicons.dev/icons?i=cs) **Enterprise and development** 
 
-![TypeScript](https://skillicons.dev/icons?i=ts) **Static Typing and web infrastructure**
+![TypeScript](https://skillicons.dev/icons?i=ts) **Static typing and web infrastructure**
 
 ![AWS](https://skillicons.dev/icons?i=aws) **Cloud deployment & services**  
 
