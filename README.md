@@ -14,9 +14,9 @@ I enjoy collaborating with others, learning continuously, and being of service t
 ### Tools / Cloud
 <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git,linux" valign="middle" /></a><span style="margin-left: 12px; display: inline-block; vertical-align: middle;"><a href="https://tailscale.com"><img src="https://img.shields.io/badge/-%23A262FF?style=just-the-logo&logo=tailscale&logoColor=white&color=1A1A1A" height="50" width="50" style="border-radius: 10px; background-color: #1a1a1a; padding: 10px; box-sizing: border-box;" /></a></span>
 ## 🧠 Currently Learning
-![C#](https://skillicons.dev/icons?i=cs) **Enterprise and development** 
+![C#](https://skillicons.dev/icons?i=cs) **Enterprise & development** 
 
-![TypeScript](https://skillicons.dev/icons?i=ts) **Static typing and web infrastructure**
+![TypeScript](https://skillicons.dev/icons?i=ts) **Static typing & web infrastructure**
 
 ![AWS](https://skillicons.dev/icons?i=aws) **Cloud deployment & services**  
 
